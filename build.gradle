@@ -31,7 +31,7 @@ dependencies {
 
 
 springBoot {
-    mainClass = "com.example.ApplicationA"
+    mainClass = "com.example.appa.ApplicationA"
 }
 
 //bootRun {
